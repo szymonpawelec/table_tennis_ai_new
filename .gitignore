@@ -1,0 +1,6 @@
+build/
+bin/
+resources/drawables/tennis_ai_icon.psd
+resources/drawables/tennis_ai_icon.png
+.vscode/launch.json
+ai_tennis.iq

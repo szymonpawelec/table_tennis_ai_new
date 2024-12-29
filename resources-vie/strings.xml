@@ -1,0 +1,22 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+
+    <string id="fh_power_label">Sức mạnh - Forehand</string>
+    <string id="fh_power_graph_label">Sức mạnh - Forehand</string>
+    <string id="fh_stats_a_label">   trung bình/tối đa</string>
+    <string id="fh_stats_b_label">Forehand tổng/điểm/lỗi</string>
+
+    <string id="bh_power_label">Sức mạnh - Backhand</string>
+    <string id="bh_power_graph_label">Sức mạnh - Backhand</string>
+    <string id="bh_stats_a_label">   trung bình/tối đa</string>
+    <string id="bh_stats_b_label">Backhand tổng/điểm/lỗi</string>
+
+    <string id="total_stats_label">Số lần đánh bóng</string>
+
+    <string id="unlockCode">Mã mở khóa:</string>
+    <string id="dark">Chủ đề tối:</string>
+    <string id="darkmenu">Menu tối:</string>
+    <string id="left">Chế độ tay trái:</string>
+    <string id="sensitivity">Độ nhạy:</string>
+
+</resources>

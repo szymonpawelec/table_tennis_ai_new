@@ -1,0 +1,41 @@
+<settings>
+    <setting propertyKey="@Properties.unlockCode" title="@Strings.unlockCode">
+        <settingConfig type="alphaNumeric" required="false" maxLength="6"/>
+    </setting>
+
+    <setting propertyKey="propGps" title="@Strings.gps">
+        <settingConfig type="boolean"/>
+    </setting>
+    
+    <setting propertyKey="propDark" title="@Strings.dark">
+        <settingConfig type="boolean"/>
+    </setting>
+    
+    <setting propertyKey="propDarkMenu" title="@Strings.darkmenu">
+        <settingConfig type="boolean"/>
+    </setting>
+    
+    <setting propertyKey="propLeft" title="@Strings.left">
+        <settingConfig type="boolean"/>
+    </setting>
+    
+    <setting propertyKey="propSensitivity" title="@Strings.sensitivity">
+        <settingConfig type="list">
+            <listEntry value="1">1</listEntry>
+            <listEntry value="2">2</listEntry>
+            <listEntry value="3">3</listEntry>
+            <listEntry value="4">4</listEntry>
+            <listEntry value="5">5</listEntry>
+            <listEntry value="6">6</listEntry>
+            <listEntry value="7">7</listEntry>
+            <listEntry value="8">8</listEntry>
+            <listEntry value="9">9</listEntry>
+            <listEntry value="10">10</listEntry>
+            <listEntry value="11">11</listEntry>
+            <listEntry value="12">12</listEntry>
+            <listEntry value="13">13</listEntry>
+            <listEntry value="14">14</listEntry>
+            <listEntry value="15">15</listEntry>
+        </settingConfig>
+    </setting>
+</settings>

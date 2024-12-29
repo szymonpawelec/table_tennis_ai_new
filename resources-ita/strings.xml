@@ -1,0 +1,17 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+    <string id="fh_power_label">Potenza dritto</string>
+    <string id="fh_power_graph_label">Potenza dritto</string>
+    <string id="fh_stats_a_label">   media/massima potenza</string>
+    <string id="fh_stats_b_label">Dritto somma/punto/fallo</string>
+    <string id="bh_power_label">Potenza rovescio</string>
+    <string id="bh_power_graph_label">Potenza rovescio</string>
+    <string id="bh_stats_a_label">   media/massima potenza</string>
+    <string id="bh_stats_b_label">Rovescio somma/punto/fallo</string>
+    <string id="total_stats_label">Totale</string>
+    <string id="dark">Modalità scura:</string>
+    <string id="darkmenu">Menu scuro:</string>
+    <string id="left">Mano sinistra:</string>
+    <string id="sensitivity">Sensibilità:</string>
+
+</resources>

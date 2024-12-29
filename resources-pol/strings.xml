@@ -1,0 +1,17 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+    <string id="fh_power_label">Siła - Forehand</string>
+    <string id="fh_power_graph_label">Siła - Forehand</string>
+    <string id="fh_stats_a_label">   siła średnia/max</string>
+    <string id="fh_stats_b_label">Forehand suma/punkt/faul</string>
+    <string id="bh_power_label">Siła - Backhand</string>
+    <string id="bh_power_graph_label">Siła - Backhand</string>
+    <string id="bh_stats_a_label">   siła średnia/max</string>
+    <string id="bh_stats_b_label">Backhand suma/punkt/faul</string>
+    <string id="total_stats_label">Liczba uderzeń</string>
+    <string id="dark">Ciemny motyw:</string>
+    <string id="darkmenu">Ciemne menu:</string>
+    <string id="left">Tryb dla leworęcznych:</string>
+    <string id="sensitivity">Czułość:</string>
+
+</resources>

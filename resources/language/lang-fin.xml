@@ -1,0 +1,50 @@
+<!-- https://developer.garmin.com/connect-iq/core-topics/resources/#fnref -->
+<resources>
+    <jsonData id="finJson">{
+            "put_watch": "Laita kello käteen",
+            "hold_racket": "joka pitää mailaa",
+            "changelog": "Päivitys",
+            "app_name": "Pickleball",
+            "shots": "lyönnit",
+            "power": "teho",
+            "tcount": "Lyöntien kokonaismäärä",
+            "stcount": "Summa",
+            "fh": "Kämmen",
+            <!-- "fh": "Kämmenlyönti", -->
+            "bh": "Rysty",
+            <!-- "bh": "Rystylyönti", -->
+            "sv": "Syöttö",
+            "bs": "Viilto",
+            "hit_prompt": "Lyö pallo",
+            "settings": "Asetukset",
+            "dark": "Tumma tila",
+            "darkmenu": "Tumma valikko",
+            "left": "Vasenkätinen tila",
+            "dev_mode": "Kehittäjätila",
+            "trainings": "Harjoitukset",
+            "about": "Lisenssi",
+            "back": "Takaisin",
+            "delete_train": "Poista?",
+            "version": "Sovellusversio",
+            "locked": "SOVELLUS ON LUKITTU",
+            "unlocked": "SOVELLUS ON AVATTU",
+            "to_unlock": "Avataksesi käy",
+            "your_code": "Sinun koodisi",
+            "paused": "Toiminta keskeytetty",
+            "resume": "Jatka",
+            "save": "Tallenna",
+            "discard": "Hylkää",
+            "exp_trial": "Ilmainen kokeilu päättyy",
+            "exp_trial_in": "päättyy",
+            "days": "päivää",
+            "get_full": "Saadaksesi täyden version, käy",
+            "expired": "Ilmainen kokeilujakso on päättynyt",
+            "welcome": "Tervetuloa",
+            "score": "piste",
+            "fault": "virhe",
+            "sensitivity": "Herkkyys",
+            "increase": "Lisää",
+            "decrease":"Vähennä"
+        }
+    </jsonData>
+</resources>

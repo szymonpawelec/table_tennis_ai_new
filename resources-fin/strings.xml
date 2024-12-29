@@ -1,0 +1,23 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+
+    <string id="fh_power_label">Teho - Kämmenlyönti</string>
+    <string id="fh_power_graph_label">Teho - Kämmenlyönti</string>
+    <string id="fh_stats_a_label">   keski/max</string>
+    <string id="fh_stats_b_label">Kämmenlyönti määrä/piste/virhe</string>
+
+    <string id="bh_power_label">Teho - Rystylyönti</string>
+    <string id="bh_power_graph_label">Teho - Rystylyönti</string>
+    <string id="bh_stats_a_label">   keski/max</string>
+    <string id="bh_stats_b_label">Rystylyönti määrä/piste/virhe</string>
+
+    <string id="total_stats_label">Lyöntien määrä</string>
+    
+    <string id="unlockCode">Avauskoodi:</string>
+    <string id="gps">GPS:</string>
+    <string id="dark">Tumma tila:</string>
+    <string id="darkmenu">Tumma valikko:</string>
+    <string id="left">Vasenkätinen tila:</string>
+    <string id="sensitivity">Herkkyys:</string>
+
+</resources>

@@ -1,1 +1,2 @@
-# table_tennis_ai_new
+# ai_tennis
+Garmin watch application for tracking Tennis workout.

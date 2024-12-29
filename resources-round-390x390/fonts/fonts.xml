@@ -1,0 +1,9 @@
+<!-- https://developer.garmin.com/connect-iq/core-topics/resources/#fnref -->
+<!-- https://www.youtube.com/watch?v=PRQyA4BeqqE -->
+<!-- https://r12a.github.io/app-listcharacters/ -->
+<fonts>
+    <font id="large" filename="BC_390_large.fnt" antialias="true" />
+    <font id="medium" filename="BC_390_medium.fnt" antialias="true" />
+    <font id="small" filename="BC_390_small.fnt" antialias="true" />
+    <font id="icons" filename="BC_390_icons.fnt" antialias="true" />
+</fonts>

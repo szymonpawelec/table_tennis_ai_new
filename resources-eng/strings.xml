@@ -1,0 +1,35 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+    <string id="prompt">Pickleball AI</string>
+
+    <string id="fh_power_label">Forehand power</string>
+    <string id="fh_power_graph_label">Forehand power</string>
+    <string id="fh_power_units">%</string>
+    <string id="fh_stats_a_label">   power avg/max</string>
+    <string id="fh_stats_a_units">%</string>
+    <string id="fh_stats_b_label">Forehand count/win/foul</string>
+    <string id="fh_stats_b_units"></string>
+
+    <string id="bh_power_label">Backhand power</string>
+    <string id="bh_power_graph_label">Backhand power</string>
+    <string id="bh_power_units">%</string>
+    <string id="bh_stats_a_label">   power avg/max</string>
+    <string id="bh_stats_a_units">%</string>
+    <string id="bh_stats_b_label">Backhand count/win/foul</string>
+    <string id="bh_stats_b_units"></string>
+
+    <string id="total_stats_label">Total Count</string>
+    <string id="total_stats_units"></string>
+    
+    <string id="signX">SensorAccelerationX_HD</string>
+    <string id="signY">SensorAccelerationY_HD</string>
+    <string id="signZ">SensorAccelerationZ_HD</string>
+    <string id="signUNIT">mgn</string>
+    
+    <string id="unlockCode">Unlock code:</string>
+    <string id="gps">GPS:</string>
+    <string id="dark">Dark mode:</string>
+    <string id="left">Left handed mode:</string>
+    <string id="sensitivity">Sensitivity:</string>
+
+</resources>

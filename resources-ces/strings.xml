@@ -1,0 +1,23 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+
+    <string id="fh_power_label">Síla - Forhend</string>
+    <string id="fh_power_graph_label">Síla - Forhend</string>
+    <string id="fh_stats_a_label">   průměr/max</string>
+    <string id="fh_stats_b_label">Forhend počet/bod/chyba</string>
+
+    <string id="bh_power_label">Síla - Bekhend</string>
+    <string id="bh_power_graph_label">Síla - Bekhend</string>
+    <string id="bh_stats_a_label">   průměr/max</string>
+    <string id="bh_stats_b_label">Bekhend počet/bod/chyba</string>
+
+    <string id="total_stats_label">Celkový počet</string>
+    
+    <string id="unlockCode">Kód pro odemčení:</string>
+    <string id="gps">GPS:</string>
+    <string id="dark">Tmavý režim:</string>
+    <string id="darkmenu">Tmavé menu:</string>
+    <string id="left">Režim pro leváky:</string>
+    <string id="sensitivity">Citlivost:</string>
+
+</resources>

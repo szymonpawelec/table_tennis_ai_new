@@ -1,0 +1,24 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+
+    <string id="fh_power_label">Putere - Forehand</string>
+    <string id="fh_power_graph_label">Putere - Forehand</string>
+    <string id="fh_stats_a_label">   medie/maxim</string>
+    <string id="fh_stats_b_label">Forehand suma/punct/greșeală</string>
+
+    <string id="bh_power_label">Putere - Backhand</string>
+    <string id="bh_power_graph_label">Putere - Backhand</string>
+    <string id="bh_stats_a_label">   medie/maxim</string>
+    <string id="bh_stats_b_label">Backhand suma/punct/greșeală</string>
+
+    <string id="total_stats_label">Suma loviturilor</string>
+    
+    <string id="unlockCode">Cod de deblocare:</string>
+    <string id="gps">GPS:</string>
+    <string id="dark">Mod întunecat:</string>
+    <string id="darkmenu">Meniu întunecat:</string>
+    <string id="left">Mod stângaci:</string>
+    <string id="sensitivity">Sensibilidad:</string>
+
+
+</resources>

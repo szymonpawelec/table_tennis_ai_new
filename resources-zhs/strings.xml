@@ -1,0 +1,22 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+    
+    <string id="fh_power_label">力量 - 正手</string>
+    <string id="fh_power_graph_label">力量 - 正手</string>
+    <string id="fh_stats_a_label">   平均/最大</string>
+    <string id="fh_stats_b_label">正手总和/得分/失误</string>
+
+    <string id="bh_power_label">力量 - 反手</string>
+    <string id="bh_power_graph_label">力量 - 反手</string>
+    <string id="bh_stats_a_label">   平均/最大</string>
+    <string id="bh_stats_b_label">反手总和/得分/失误</string>
+
+    <string id="total_stats_label">击球数量</string>
+    
+    <string id="unlockCode">解锁代码：</string>
+    <string id="dark">黑暗主题：</string>
+    <string id="darkmenu">黑暗菜单:</string>
+    <string id="left">左撇子模式：</string>
+    <string id="sensitivity">灵敏度:</string>
+
+</resources>

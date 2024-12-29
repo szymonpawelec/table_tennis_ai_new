@@ -1,0 +1,23 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+
+    <string id="fh_power_label">Erő - Forehand</string>
+    <string id="fh_power_graph_label">Erő - Forehand</string>
+    <string id="fh_stats_a_label">   átlag/max</string>
+    <string id="fh_stats_b_label">Forehand szám/pont/hiba</string>
+
+    <string id="bh_power_label">Erő - Backhand</string>
+    <string id="bh_power_graph_label">Erő - Backhand</string>
+    <string id="bh_stats_a_label">   átlag/max</string>
+    <string id="bh_stats_b_label">Backhand szám/pont/hiba</string>
+
+    <string id="total_stats_label">Ütésszám</string>
+    
+    <string id="unlockCode">Feloldó kód:</string>
+    <string id="gps">GPS:</string>
+    <string id="dark">Sötét mód:</string>
+    <string id="darkmenu">Sötét menü:</string>
+    <string id="left">Balkezes mód:</string>
+    <string id="sensitivity">Érzékenység:</string>
+
+</resources>

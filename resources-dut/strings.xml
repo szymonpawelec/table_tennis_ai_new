@@ -1,0 +1,16 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+    <string id="fh_power_label">Forehand kracht</string>
+    <string id="fh_power_graph_label">Forehand kracht</string>
+    <string id="fh_stats_a_label">   gem/max kracht</string>
+    <string id="fh_stats_b_label">Forehand totaal/punt/fout</string>
+    <string id="bh_power_label">Backhand kracht</string>
+    <string id="bh_power_graph_label">Backhand kracht</string>
+    <string id="bh_stats_a_label">   gem/max kracht</string>
+    <string id="bh_stats_b_label">Backhand totaal/punt/fout</string>
+    <string id="total_stats_label">Totaal aantal</string>
+    <string id="dark">Donkere modus:</string>
+    <string id="darkmenu">Donker menu:</string>
+    <string id="left">Linkshandig modus:</string>
+    <string id="sensitivity">Gevoeligheid:</string>
+</resources>

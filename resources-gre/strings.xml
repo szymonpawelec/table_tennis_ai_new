@@ -1,0 +1,23 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+
+    <string id="fh_power_label">Δύναμη  - Φόρχαντ</string>
+    <string id="fh_power_graph_label">Δύναμη  - Φόρχαντ</string>
+    <string id="fh_stats_a_label">   μέσο/μέγιστο</string>
+    <string id="fh_stats_b_label">Φόρχαντ σύνολο/πόντος/λάθος</string>
+
+    <string id="bh_power_label">Δύναμη  - Μπάκχαντ</string>
+    <string id="bh_power_graph_label">Δύναμη  - Μπάκχαντ</string>
+    <string id="bh_stats_a_label">   μέσο/μέγιστο</string>
+    <string id="bh_stats_b_label">Μπάκχαντ σύνολο/πόντος/λάθος</string>
+
+    <string id="total_stats_label">Σύνολο πλήγματων</string>
+    
+    <string id="unlockCode">Κωδικός Ξεκλειδώματος:</string>
+    <string id="gps">GPS:</string>
+    <string id="dark">Σκοτεινός Τρόπος:</string>
+    <string id="darkmenu">Σκοτεινό μενού:</string>
+    <string id="left">Αριστερόχειρας:</string>
+    <string id="sensitivity">Ευαισθησία:</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+
+    <string id="fh_power_label">Kekuatan - Forehand</string>
+    <string id="fh_power_graph_label">Kekuatan - Forehand</string>
+    <string id="fh_stats_a_label">   rata-rata/maks</string>
+    <string id="fh_stats_b_label">Forehand total/skor/salah</string>
+
+    <string id="bh_power_label">Kekuatan - Backhand</string>
+    <string id="bh_power_graph_label">Kekuatan - Backhand</string>
+    <string id="bh_stats_a_label">   rata-rata/maks</string>
+    <string id="bh_stats_b_label">Backhand total/skor/salah</string>
+
+    <string id="total_stats_label">Jumlah pukulan</string>
+    
+    <string id="unlockCode">Kode buka:</string>
+    <string id="dark">Tema gelap:</string>
+    <string id="darkmenu">Menu gelap:</string>
+    <string id="left">Mode tangan kiri:</string>
+    <string id="sensitivity">Sensitivitas:</string>
+
+</resources>

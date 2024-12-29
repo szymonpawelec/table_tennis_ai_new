@@ -1,0 +1,18 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+    <string id="fh_power_label">パワー - フォアハンド</string>
+    <string id="fh_power_graph_label">パワー - フォアハンド</string>
+    <string id="fh_stats_a_label">   平均/最大</string>
+    <string id="fh_stats_b_label">フォアハンド 合計/ポイント/ミス</string>
+    <string id="bh_power_label">パワー - バックハンド</string>
+    <string id="bh_power_graph_label">パワー - バックハンド</string>
+    <string id="bh_stats_a_label">   平均/最大</string>
+    <string id="bh_stats_b_label">バックハンド 合計/ポイント/ミス</string>
+    <string id="total_stats_label">ストローク数</string>
+    <string id="dark">ダークモード：</string>
+    <string id="darkmenu">ダークメニュー:</string>
+    <string id="left">左利きモード：</string>
+    <string id="unlockCode">ロック解除コード：</string>
+    <string id="sensitivity">感度:</string>
+
+</resources>

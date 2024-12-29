@@ -1,0 +1,23 @@
+<resources>
+    <string id="AppName">Pickleball AI</string>
+
+    <string id="fh_power_label">Kraft - Forhånd</string>
+    <string id="fh_power_graph_label">Kraft - Forhånd</string>
+    <string id="fh_stats_a_label">   gennemsnit/maks</string>
+    <string id="fh_stats_b_label">Forhånd antal/punkt/fejl</string>
+
+    <string id="bh_power_label">Kraft - Baghånd</string>
+    <string id="bh_power_graph_label">Kraft - Baghånd</string>
+    <string id="bh_stats_a_label">   gennemsnit/maks</string>
+    <string id="bh_stats_b_label">Baghånd antal/punkt/fejl</string>
+
+    <string id="total_stats_label">Antal slag</string>
+    
+    <string id="unlockCode">Oplåsning kode:</string>
+    <string id="gps">GPS:</string>
+    <string id="dark">Mørk tilstand:</string>
+    <string id="darkmenu">Mørkt menu:</string>
+    <string id="left">Venstrehåndet tilstand:</string>
+    <string id="sensitivity">Følsomhed:</string>
+
+</resources>

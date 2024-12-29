@@ -1,0 +1,3 @@
+<layout id="MainLayout">
+    <!-- <label x="center" y="25" text="@Strings.prompt" background="Graphics.COLOR_WHITE" color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER" /> -->
+</layout>
