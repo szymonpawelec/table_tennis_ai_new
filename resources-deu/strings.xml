@@ -1,5 +1,5 @@
 <resources>
-    <string id="AppName">Pickleball AI</string>
+    <string id="AppName">Tischtennis AI</string>
     <string id="fh_power_label">Vorhandkraft</string>
     <string id="fh_power_graph_label">Vorhandkraft</string>
     <string id="fh_stats_a_label">   Kraft mittlere/max</string>

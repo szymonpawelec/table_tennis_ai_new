@@ -186,7 +186,7 @@ class StatsView extends WatchUi.View {
             Graphics.TEXT_JUSTIFY_CENTER);
 
 
-        font = $.config.fontLarge;
+        font = $.config.fontMedium;
         var fontOffsetTitle = dc.getFontHeight(font)/2;
         dc.setColor(_color["colText"], -1);
         dc.drawText(

@@ -1,5 +1,5 @@
 <resources>
-    <string id="AppName">Pickleball AI</string>
+    <string id="AppName">Tenis stołowy AI</string>
     <string id="fh_power_label">Siła - Forehand</string>
     <string id="fh_power_graph_label">Siła - Forehand</string>
     <string id="fh_stats_a_label">   siła średnia/max</string>

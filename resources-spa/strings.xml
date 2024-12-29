@@ -1,5 +1,5 @@
 <resources>
-    <string id="AppName">Pickleball AI</string>
+    <string id="AppName">Tenis de mesa AI</string>
     <string id="fh_power_label">Potencia del golpe derecho</string>
     <string id="fh_power_graph_label">Potencia del golpe derecho</string>
     <string id="fh_stats_a_label">   media/máxima potencia</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string id="AppName">Pickleball AI</string>
+    <string id="AppName">Tenis de masă AI</string>
 
     <string id="fh_power_label">Putere - Forehand</string>
     <string id="fh_power_graph_label">Putere - Forehand</string>

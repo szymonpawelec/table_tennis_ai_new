@@ -1,5 +1,5 @@
 <resources>
-    <string id="AppName">Pickleball AI</string>
+    <string id="AppName">Stolní tenis AI</string>
 
     <string id="fh_power_label">Síla - Forhend</string>
     <string id="fh_power_graph_label">Síla - Forhend</string>

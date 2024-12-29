@@ -1,5 +1,5 @@
 <resources>
-    <string id="AppName">Pickleball AI</string>
+    <string id="AppName">Pöytätennis AI</string>
 
     <string id="fh_power_label">Teho - Kämmenlyönti</string>
     <string id="fh_power_graph_label">Teho - Kämmenlyönti</string>

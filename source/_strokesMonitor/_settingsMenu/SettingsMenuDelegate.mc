@@ -37,8 +37,6 @@ class SettingsMenuDelegate extends WatchUi.MenuInputDelegate {
     function onMenuItem(item) {
         if ( item == :recordaccel ) {
             $.config.toggleAccelRecord();
-        } else if ( item == :recordgps ) {
-            $.config.toggleGpsRecord();
         } else if ( item == :darkmode ) {
             $.config.toggleDarkMode();
         } else if ( item == :darkmenumode ) {

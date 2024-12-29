@@ -1,5 +1,5 @@
 <resources>
-    <string id="AppName">Pickleball AI</string>
+    <string id="AppName">卓球 AI</string>
     <string id="fh_power_label">パワー - フォアハンド</string>
     <string id="fh_power_graph_label">パワー - フォアハンド</string>
     <string id="fh_stats_a_label">   平均/最大</string>

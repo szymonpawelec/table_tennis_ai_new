@@ -90,11 +90,11 @@ class StrokeMonitorDelegate extends WatchUi.BehaviorDelegate {
                 $.strokesMonitor = new TennisStrokesMonitorMax();
 
                 // https://developer.garmin.com/connect-iq/api-docs/Toybox/Activity.html
-                if ((Activity has :SUB_SPORT_PICKLEBALL) & (Activity has :SPORT_RACKET)) {
+                if ((Activity has :SUB_SPORT_TABLE_TENNIS) & (Activity has :SPORT_RACKET)) {
                     session = ActivityRecording.createSession({
                         :name=>$.config.langText["app_name"],
                         :sport=>Activity.SPORT_RACKET,
-                        :subSport=>Activity.SUB_SPORT_PICKLEBALL
+                        :subSport=>Activity.SUB_SPORT_TABLE_TENNIS
                     });
                 } else {
                     session = ActivityRecording.createSession({

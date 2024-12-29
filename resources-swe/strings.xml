@@ -1,5 +1,5 @@
 <resources>
-    <string id="AppName">Pickleball AI</string>
+    <string id="AppName">Bordtennis AI</string>
 
     <string id="fh_power_label">Kraft - Forehand</string>
     <string id="fh_power_graph_label">Kraft - Forehand</string>

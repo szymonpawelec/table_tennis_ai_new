@@ -1,5 +1,5 @@
 <resources>
-    <string id="AppName">Pickleball AI</string>
+    <string id="AppName">Bóng bàn AI</string>
 
     <string id="fh_power_label">Sức mạnh - Forehand</string>
     <string id="fh_power_graph_label">Sức mạnh - Forehand</string>

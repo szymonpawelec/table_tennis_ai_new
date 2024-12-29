@@ -2,10 +2,6 @@
     <setting propertyKey="@Properties.unlockCode" title="@Strings.unlockCode">
         <settingConfig type="alphaNumeric" required="false" maxLength="6"/>
     </setting>
-
-    <setting propertyKey="propGps" title="@Strings.gps">
-        <settingConfig type="boolean"/>
-    </setting>
     
     <setting propertyKey="propDark" title="@Strings.dark">
         <settingConfig type="boolean"/>

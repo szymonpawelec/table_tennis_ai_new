@@ -76,14 +76,6 @@ class StatsViewDelegate extends WatchUi.BehaviorDelegate {
 
         settingsMenu.addItem($.config.langText["about"], :about);
 
-        var gpsToggle;
-        if ($.config.recordGps) {
-            gpsToggle = "GPS [On]";
-        } else {
-            gpsToggle = "GPS [Off]";
-        }
-        settingsMenu.addItem(gpsToggle, :recordgps);
-
         var darkToggle;
         if ($.config.darkMode) {
             darkToggle = $.config.langText["dark"] + " [On]";

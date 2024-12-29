@@ -1,5 +1,5 @@
 <resources>
-    <string id="AppName">Pickleball AI</string>
+    <string id="AppName">Tennistavolo AI</string>
     <string id="fh_power_label">Potenza dritto</string>
     <string id="fh_power_graph_label">Potenza dritto</string>
     <string id="fh_stats_a_label">   media/massima potenza</string>

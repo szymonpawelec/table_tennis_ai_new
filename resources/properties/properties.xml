@@ -1,6 +1,5 @@
 <properties>
     <property id="unlockCode" type="string"></property>
-    <property id="propGps" type="boolean">false</property>
     <property id="propDark" type="boolean">true</property>
     <property id="propDarkMenu" type="boolean">false</property>
     <property id="propLeft" type="boolean">false</property>

@@ -1,5 +1,5 @@
 <resources>
-    <string id="AppName">Pickleball AI</string>
+    <string id="AppName">乒乓球 AI</string>
     
     <string id="fh_power_label">力量 - 正手</string>
     <string id="fh_power_graph_label">力量 - 正手</string>

@@ -2,9 +2,9 @@
 <resources>
     <jsonData id="polJson">{
         "put_watch": "Umieść zegarek na ręce",
-        "hold_racket": "w której trzymasz rakietę",
+        "hold_racket": "w której trzymasz rakietkę",
         "changelog": "Aktualizacja",
-        "app_name": "Pickleball",
+        "app_name": "Tenis Stołowy",
         "shots": "uderzenia",
         "power": "siła",
         "tcount": "Liczba uderzeń",

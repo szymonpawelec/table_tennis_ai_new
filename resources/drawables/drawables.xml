@@ -1,3 +1,7 @@
 <drawables>
     <bitmap id="LauncherIcon" filename="launcher_icon2.png" />
+    <!-- <bitmap id="warningToastIcon" personality="
+        system_icon_dark__about
+        system_size__toast_icon
+    "/> -->
 </drawables>

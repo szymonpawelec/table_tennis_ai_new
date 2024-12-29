@@ -8,7 +8,7 @@ class Config  {
     public var appVerMinor = 0;
     public var appVerPatch = 0;
     public var appVerStage = "";
-    public var appType = "E";
+    public var appType = "H";
 
     public var welcomeMsg = ["  Put watch on hand", "which holds the paddle"];
     public var updateMsg = ["- New interface implemented"];
@@ -48,7 +48,7 @@ class Config  {
 
     public var strokeThreshold = 1.2e+8;
     public var signalThreshold = 1900;
-    public var defaultSensitivity = 10;
+    public var defaultSensitivity = 11;
 
     public var strokeSignalMaxScale = 10800;
 
@@ -174,23 +174,6 @@ class Config  {
         "colLeadZeros" => Graphics.COLOR_DK_GRAY
     };
 
-    // public var bgdImages = {
-    //     true => {
-    //     "fh" => Application.loadResource(Rez.Drawables.fh),
-    //     "bh" => Application.loadResource(Rez.Drawables.bh),
-    //     "sv" => Application.loadResource(Rez.Drawables.sv),
-    //     "bs" => Application.loadResource(Rez.Drawables.bs),
-    //     "main" => Application.loadResource(Rez.Drawables.main)
-    //     },
-    //     false => {
-    //     "fh" => Application.loadResource(Rez.Drawables.l_fh),
-    //     "bh" => Application.loadResource(Rez.Drawables.l_bh),
-    //     "sv" => Application.loadResource(Rez.Drawables.l_sv),
-    //     "bs" => Application.loadResource(Rez.Drawables.l_bs),
-    //     "main" => Application.loadResource(Rez.Drawables.l_main)
-    //     }
-    // };
-
     public var penThin = 1;
     public var penMed = 2;
     public var penThick = 3;
@@ -264,16 +247,6 @@ class Config  {
             self.recordAccel = false;
         } else {
             self.recordAccel = Application.Storage.getValue("recordAcceleration");
-        }
-
-        // read default settings for recording gps data
-        if (Application.Storage.getValue("recordGps") == null) {
-            self.recordGps = Properties.getValue("propGps");
-        } else {
-            // decomissioning old settings based on storage
-            self.recordGps = Application.Storage.getValue("recordGps");
-            Application.Storage.setValue("recordGps", null);
-            Properties.setValue("propGps", self.recordGps);
         }
 
         // read default settings for dark mode
@@ -536,22 +509,13 @@ class Config  {
         Storage.setValue("recordAcceleration", self.recordAccel);
     }
 
-    public function toggleGpsRecord() as Void {
-        if(self.recordGps){
-            self.recordGps = false;
-            } else {
-                self.recordGps = true;
-            }
-        Properties.setValue("propGps", self.recordGps);
-        // Storage.setValue("recordGps", self.recordGps);
-    }
-
     public function toggleDarkMode() as Void {
         if(self.darkMode){
             self.darkMode = false;
             } else {
                 self.darkMode = true;
             }
+        System.println("toggle: " + self.darkMode);
         Properties.setValue("propDark", self.darkMode);
         // Storage.setValue("darkMode", self.darkMode);
     }

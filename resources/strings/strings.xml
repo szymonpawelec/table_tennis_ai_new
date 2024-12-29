@@ -1,6 +1,6 @@
 <resources>
-    <string id="AppName">Pickleball</string>
-    <string id="prompt">Pickleball</string>
+    <string id="AppName">Table Tennis AI</string>
+    <string id="prompt">Table Tennis AI</string>
 
     <string id="fh_power_label">Forehand power</string>
     <string id="fh_power_graph_label">Forehand power</string>
