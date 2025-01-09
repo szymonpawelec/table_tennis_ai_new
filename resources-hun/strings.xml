@@ -1,15 +1,15 @@
 <resources>
     <string id="AppName">Asztalitenisz AI</string>
 
-    <string id="fh_power_label">Erő - Forehand</string>
-    <string id="fh_power_graph_label">Erő - Forehand</string>
-    <string id="fh_stats_a_label">   átlag/max</string>
-    <string id="fh_stats_b_label">Forehand szám/pont/hiba</string>
+    <string id="fh_power_label">Tenyeres erő</string>
+    <string id="fh_power_graph_label">Tenyeres erő</string>
+    <string id="fh_stats_a_label">   erő átlag/max</string>
+    <string id="fh_stats_b_label">Tenyeres szám/pont/hiba</string>
 
-    <string id="bh_power_label">Erő - Backhand</string>
-    <string id="bh_power_graph_label">Erő - Backhand</string>
-    <string id="bh_stats_a_label">   átlag/max</string>
-    <string id="bh_stats_b_label">Backhand szám/pont/hiba</string>
+    <string id="bh_power_label">Fonák erő</string>
+    <string id="bh_power_graph_label">Fonák erő</string>
+    <string id="bh_stats_a_label">   erő átlag/max</string>
+    <string id="bh_stats_b_label">Fonák szám/pont/hiba</string>
 
     <string id="total_stats_label">Ütésszám</string>
     

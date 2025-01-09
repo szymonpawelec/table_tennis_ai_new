@@ -6,12 +6,12 @@ class Config  {
 
     public var appVerMajor = 2;
     public var appVerMinor = 0;
-    public var appVerPatch = 0;
+    public var appVerPatch = 1;
     public var appVerStage = "";
     public var appType = "H";
 
     public var welcomeMsg = ["  Put watch on hand", "which holds the paddle"];
-    public var updateMsg = ["- New interface implemented"];
+    public var updateMsg = ["- Add support for Instinct", "- Update Hungarian translation"];
 
     public var trialDays = 20;
     public var trialDaysWarning = 10;
