@@ -6,12 +6,12 @@ class Config  {
 
     public var appVerMajor = 2;
     public var appVerMinor = 0;
-    public var appVerPatch = 1;
+    public var appVerPatch = 2;
     public var appVerStage = "";
     public var appType = "H";
 
     public var welcomeMsg = ["  Put watch on hand", "which holds the paddle"];
-    public var updateMsg = ["- Add support for Instinct", "- Update Hungarian translation"];
+    public var updateMsg = ["- License sync improvement", "- Add support for Approach S50"];
 
     public var trialDays = 20;
     public var trialDaysWarning = 10;
@@ -415,7 +415,11 @@ class Config  {
             // System.println("LICENSE EXPIRED");
         }
 
-        if(self.licenseToken["unlocked"] & !self.licenseExpired){
+// license expiration commented below is to prevent current users
+// how did not sync yet to get their apps locked
+        if(self.licenseToken["unlocked"]
+            // & !self.licenseExpired
+        ){
             self.isUnlocked = true;
         } else {
             self.isUnlocked = false;
