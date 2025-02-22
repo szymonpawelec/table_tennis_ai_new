@@ -6,12 +6,12 @@ class Config  {
 
     public var appVerMajor = 2;
     public var appVerMinor = 0;
-    public var appVerPatch = 2;
+    public var appVerPatch = 3;
     public var appVerStage = "";
     public var appType = "H";
 
     public var welcomeMsg = ["  Put watch on hand", "which holds the paddle"];
-    public var updateMsg = ["- License sync improvement", "- Add support for Approach S50"];
+    public var updateMsg = ["- Add support for Descent G2", " and Tactix 8"];
 
     public var trialDays = 20;
     public var trialDaysWarning = 10;
